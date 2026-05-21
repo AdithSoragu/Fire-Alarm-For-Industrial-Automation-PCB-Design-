@@ -306,9 +306,6 @@ This project can be used in:
 
 # 📚 Learning Outcomes
 
-
-
-
 ---
 
 # 🎓 Academic Information
