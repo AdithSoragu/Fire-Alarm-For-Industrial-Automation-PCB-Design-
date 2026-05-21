@@ -319,16 +319,7 @@ Through this project, the following concepts were learned:
 
 ---
 
-# 🔮 Future Enhancements
 
-The project can be improved further by adding:
-
-- Smoke Sensors
-- IoT Monitoring
-- GSM Alert System
-- Wireless Fire Detection
-- Mobile Notifications
-- Smart Automation Integration
 
 ---
 
