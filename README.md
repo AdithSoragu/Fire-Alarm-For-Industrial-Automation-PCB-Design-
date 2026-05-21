@@ -319,8 +319,6 @@ Through this project, the following concepts were learned:
 
 ---
 
-
-
 ---
 
 # 🎓 Academic Information
