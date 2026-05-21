@@ -306,12 +306,7 @@ This project can be used in:
 
 # 📚 Learning Outcomes
 
-Through this project, the following concepts were learned:
 
-- PCB Design Workflow
-- Schematic Design
-- PCB Routing Techniques
-- Industrial Safety Systems
 
 
 ---
