@@ -188,13 +188,6 @@ Once activated:
 
 The complete circuit was first designed using DesignSpark PCB software.
 
-The schematic includes:
-- Comparator circuit
-- Sensor connections
-- Relay driver
-- Buzzer control
-
----
 
 ---
 
