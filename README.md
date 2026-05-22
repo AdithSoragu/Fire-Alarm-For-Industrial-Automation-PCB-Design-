@@ -23,7 +23,6 @@ The primary objective of this project was to:
 - Gain practical experience in electronic hardware design
 
 The complete PCB was designed using **DesignSpark PCB Software** and later visualized in **3D PCB View**.
-
 ---
 
 # 🎯 Objectives
