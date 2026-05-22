@@ -196,11 +196,6 @@ The schematic includes:
 
 ---
 
-# 📌 2. PCB Layout Design
-
-
-
-
 ---
 
 # 🚀 Applications
