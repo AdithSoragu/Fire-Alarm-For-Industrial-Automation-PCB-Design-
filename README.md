@@ -210,10 +210,6 @@ The PCB layout ensures:
 
 ---
 
-# 📌 3. 3D PCB Visualization
-
-
-
 ---
 
 # 🚀 Applications
