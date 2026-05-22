@@ -254,11 +254,6 @@ The 3D visualization provides:
 - Component arrangement
 - Hardware structure analysis
 
----
-
-# 🧪 PCB Verification
-
-The PCB was verified for:
 
 
 ---
