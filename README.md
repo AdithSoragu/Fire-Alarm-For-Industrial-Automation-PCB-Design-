@@ -267,12 +267,6 @@ The PCB was verified for:
 
 ---
 
-# 📊 Features of the System
-
-- Compact PCB design
-
----
-
 # 🚀 Applications
 
 This project can be used in:
