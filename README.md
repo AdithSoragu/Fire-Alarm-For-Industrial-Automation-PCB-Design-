@@ -236,11 +236,6 @@ The schematic diagram shows:
 
 The PCB layout contains:
 - Copper routing
-- Component footprints
-- Track connections
-- Board dimensions
-
----
 
 
 ---
