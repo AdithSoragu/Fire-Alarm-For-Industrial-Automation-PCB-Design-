@@ -230,9 +230,6 @@ The schematic diagram shows:
 - Relay and buzzer control
 - Power supply connections
 
-
-
-
 ---
 
 # 🚀 Applications
