@@ -270,12 +270,6 @@ The PCB was verified for:
 # 📊 Features of the System
 
 - Compact PCB design
-- Automatic fire detection
-- Audio alarm indication
-- LED status indication
-- Industrial safety application
-- Low-cost implementation
-- Reliable operation
 
 ---
 
