@@ -182,12 +182,6 @@ Once activated:
 - Warning signal is generated
 
 
----
-
-# 📌 1. Circuit Schematic Design
-
-The complete circuit was first designed using DesignSpark PCB software.
-
 
 ---
 
