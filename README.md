@@ -73,9 +73,6 @@ Industrial fire alarm systems improve:
 - Equipment protection
 - Emergency response
 
-
-
-
 ---
 
 # ⚙️ Software and Tools Used
