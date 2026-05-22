@@ -73,20 +73,7 @@ Industrial fire alarm systems improve:
 - Equipment protection
 - Emergency response
 
----
 
-# 🏗️ Project Architecture
-
-The project contains:
-
-- Fire detection circuit
-- Comparator section
-- Alarm driver circuit
-- Relay control unit
-- Buzzer indication
-- LED indicators
-- PCB layout design
-- 3D PCB visualization
 
 
 ---
