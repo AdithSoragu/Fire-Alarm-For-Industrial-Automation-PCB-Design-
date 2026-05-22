@@ -224,11 +224,6 @@ The PCB was visualized in 3D mode to analyze:
 
 ## 🔹 Circuit Diagram
 
-The schematic diagram shows:
-- Sensor circuitry
-- Comparator section
-- Relay and buzzer control
-- Power supply connections
 
 ---
 
