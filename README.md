@@ -180,9 +180,6 @@ Once activated:
 - Buzzer turns ON
 - LEDs glow
 - Warning signal is generated
-
-
-
 ---
 
 # 🚀 Applications
