@@ -242,14 +242,6 @@ The PCB layout contains:
 
 ---
 
-## 🔹 3D PCB View
-
-The 3D visualization provides:
-- Realistic PCB appearance
-- Component arrangement
-- Hardware structure analysis
-
-
 
 ---
 
